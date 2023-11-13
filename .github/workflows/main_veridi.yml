@@ -59,4 +59,4 @@ jobs:
           app-name: 'veridi'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2859DE66173E4C4EBC8280F8C276D918 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EDE601E7B6E1460BBC6454DF85F38F16 }}
